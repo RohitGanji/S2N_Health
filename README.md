@@ -1,6 +1,7 @@
 # Medicare Physician Similarity Analysis</span>
 <br>
-This assignment was given to me by S2N Health, Boston.
+This assignment was given to me by [S2N Health: AI-Powered Market Intelligence](https://s2nhealth.com), Boston.
+<br>
 <br>
 
 Find the 10 nearest neighbours for the following physicians:
