@@ -1,8 +1,8 @@
 # Medicare Physician Similarity Analysis</span>
-<br>
-This assignment was given to me by [S2N Health: AI-Powered Market Intelligence](https://s2nhealth.com), Boston.
-<br>
-<br>[Medicare Physician and Other Practitioners](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service/data)
+
+Associated with [S2N Health: AI-Powered Market Intelligence](https://s2nhealth.com) 
+
+
 
 Find the 10 nearest neighbours for the following physicians:
  - 1568588127 - Santosh Mathews
@@ -13,6 +13,8 @@ This Jupyter notebook contains various statistics concepts used to achieve the r
 <br>
 
 **Dataset:** [Medicare Physician and Other Practitioners](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service/data)
+
+
 
 ## Introduction
 The Medicare Physician and Other Practitioners dataset is a comprehensive collection of information regarding the services and procedures provided to Medicare beneficiaries by physicians and other healthcare practitioners.
