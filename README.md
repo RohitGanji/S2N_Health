@@ -1,11 +1,14 @@
 # Medicare Physician Similarity Analysis</span>
+<br>
+This assignment was given to me by S2N Health, Boston.
+<br>
 
 Find the 10 nearest neighbours for the following physicians:
  - 1568588127 - Santosh Mathews
  - 1528283249 - Brett Gidney
 
 <br>
-This notebook contains various 
+This Jupyter notebook contains various statistics concepts used to achieve the results.
 <br>
 
 **Dataset:** [Medicare Physician and Other Practitioners](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service/data)
